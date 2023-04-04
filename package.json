@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Meu primeiro aplicativo NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joedio-borges/nodejs.git"
+  },
+  "author": "Joédio Borges Junior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joedio-borges/nodejs/issues"
+  },
+  "homepage": "https://github.com/joedio-borges/nodejs#readme",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
